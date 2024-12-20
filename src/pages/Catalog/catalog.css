@@ -1,0 +1,17 @@
+.catalog{
+    padding-top: 120px;
+    background-image: url("//ulrus.uz/static/img/intro-bg.jpg");
+    background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+color: white;
+
+
+}
+.home__catalog_s{
+    padding-top: 0px
+}
+.home__catalog__title{
+    text-align: initial;
+}
+
